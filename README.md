@@ -2,7 +2,8 @@
 
 **Applied AI Engineer · Agentic Systems & Grounded LLM Pipelines · London**
 
-![Building](https://img.shields.io/badge/Building-launch--radar%20%7C%20benchmarked--RAG-1D9E75?style=flat-square)
+![Building](https://img.shields.io/badge/Building-launch--radar-green)
+![Building](https://img.shields.io/badge/benchmarked--RAG-blue)
 
 I build AI systems that work in production. My focus is **agentic pipelines** and **applied ML** for high-stakes decisions - competitive intelligence engines, grounded RAG evaluation, and LLM orchestration frameworks where reliability and auditability matter as much as capability.
 
@@ -11,8 +12,8 @@ I build AI systems that work in production. My focus is **agentic pipelines** an
 
 ## Key results
 
-| | |
-|---|---|
+| Impact | Key Metric |
+|-|-|
 | 🕐 **30 min** | Competitor analysis cycle (was 2–3 days) |
 | 📉 **80% faster** | NLP onboarding time reduction |
 | ✅ **3× fewer** | False positives in production anomaly detection |
