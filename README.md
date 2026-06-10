@@ -8,6 +8,7 @@
 I build AI systems that work in production. My focus is **agentic pipelines** and **applied ML** for high-stakes decisions - competitive intelligence engines, grounded RAG evaluation, and LLM orchestration frameworks where reliability and auditability matter as much as capability.
 
 10+ years across healthcare AI, payments infrastructure, and device market intelligence. Currently building open-source tools for **LLM evaluation** and **trustworthy agentic systems**.
+
 ---
 
 ## Key results
