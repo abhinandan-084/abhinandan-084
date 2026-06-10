@@ -15,7 +15,7 @@ I build AI systems that work in production. My focus is **agentic pipelines** an
 
 | Impact | Key Metric |
 |-|-|
-| 🕐 **30 min** | Competitor analysis cycle (was 2–3 days) |
+| 🕐 **30 min** | Competitor analysis cycle (was 2-3 days) |
 | 📉 **80% faster** | NLP onboarding time reduction |
 | ✅ **3× fewer** | False positives in production anomaly detection |
 
@@ -25,8 +25,8 @@ I build AI systems that work in production. My focus is **agentic pipelines** an
 
 | Repo | What it does |
 |------|--------------|
-| [**launch-radar**](https://github.com/abhinandan-084/launch-radar) | Source-grounded competitive intelligence pipeline — agentic crawl → aspect sentiment → anomaly detection → backtest harness |
-| [**benchmarked-RAG**](https://github.com/abhinandan-084/benchmarked-RAG) | Evaluation-first RAG with hand-verified gold set. Unanswerable question scoring — abstention as a first-class metric |
+| [**launch-radar**](https://github.com/abhinandan-084/launch-radar) | Source grounded competitive intelligence pipeline : agentic crawl → aspect sentiment → anomaly detection → backtest harness |
+| [**benchmarked-RAG**](https://github.com/abhinandan-084/benchmarked-RAG) | Evaluation-first RAG with hand-verified gold set. Unanswerable question scoring → abstention as a first-class metric |
 | [**GTM-Wargame**](https://github.com/abhinandan-084/GTM-Wargame) | Numerically-grounded multi-agent reasoning with a Consistency Checker for hallucination grounding |
 | [**local-llm-benchmarks**](https://github.com/abhinandan-084/local_llm_benchmarks) | Reproducible benchmarks for on-device LLM inference with swappable backends |
 
